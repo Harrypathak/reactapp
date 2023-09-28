@@ -1,6 +1,5 @@
 {
-  "installCommand": "npm install react-router-dom"
-  "rewrites":  [
-    {"source": "/(.*)", "destination": "/"}
-  ]
+   "rewrites":  [
+       {"source": "/(.*)", "destination": "/"}
+    ]
 }
